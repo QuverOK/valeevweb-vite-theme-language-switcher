@@ -1,4 +1,4 @@
-# valeevweb-vite-theme-language-switcher
+# Практика (переключение тем, использование различных технологий экосистемы React)
 
 ## Русский (Russian)
 
